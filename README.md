@@ -13,4 +13,5 @@ optional arguments:
   -i IP, --ip IP        IP地址 127.0.0.1
   -f FILE, --file FILE  包含地址的txt,每个IP一行 ip.txt```
   
-  ![Snipaste_2023-03-09_21-35-59](https://user-images.githubusercontent.com/42142726/224045655-6573050d-2e25-4a42-aec5-6ac203175ac1.png)
+```
+![Snipaste_2023-03-09_21-35-59](https://user-images.githubusercontent.com/42142726/224045655-6573050d-2e25-4a42-aec5-6ac203175ac1.png)
